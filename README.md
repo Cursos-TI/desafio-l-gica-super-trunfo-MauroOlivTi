@@ -1,20 +1,30 @@
-O jogo Logica Super Trunfo vai pedir os dados de duas cartas para o jogador.
-Em seguida o jogo vai criar um menu interativo pedindo para que o jogador escolha quais atributos das cartas ele quer comparar. Lembrando o maior atributo vence menos para a densidade populacional que é o menor valor.
+# Como usar o programa Desafio Mestre
 
-Voce conseguirá comparar os seguintes valores:
+Este programa compara duas cidades em um jogo estilo Super Trunfo.
 
-1 - População
-2 - Área
-3 - PIB
-4 - Número de pontos turísticos
-5 - Densidade demográfica
+## Passos para usar
 
-Por exemplo, se voce escolher um atributo o jogo mostrará:
+1. **Digite os dados da primeira cidade:**
+   - País
+   - Estado (duas letras)
+   - Código da carta
+   - Nome da cidade
+   - População
+   - Área em km²
+   - PIB em reais
+   - Número de pontos turísticos
 
-1 - O nome dos dois países.
-2 - O atributo usado na comparação.
-3 - Os valores do atributo para cada carta.
-4 - Qual carta venceu.
-5 - Em caso de empate, exibir a mensagem "Empate!".
+3. **Digite os dados da segunda cidade** (mesmos campos).
 
-No final o jogo mostrará na tela o atributo das duas cartas selecionadas e qual venceu ou se eles empataram.
+4. **Escolha o primeiro atributo para comparar** (população, área, PIB, pontos turísticos ou densidade populacional).
+
+5. **Escolha o segundo atributo para comparar** (diferente do primeiro).
+
+6. O programa vai mostrar:
+   - Quem venceu em cada atributo
+   - Quem venceu na soma dos dois atributos
+   - Os valores dos atributos e as somas de cada carta
+
+**Obs:** Use ponto (.) para números decimais.
+
+Pronto! O resultado aparecerá na tela.
