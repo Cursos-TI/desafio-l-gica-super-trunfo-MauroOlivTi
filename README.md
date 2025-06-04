@@ -1,4 +1,4 @@
-# Como usar o programa Desafio Mestre
+# Como usar o programa Logica Super Trunfo
 
 Este programa compara duas cidades em um jogo estilo Super Trunfo.
 
